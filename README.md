@@ -1,5 +1,12 @@
-# 💫 About Me:
-I am currently working on a Habit Tracker App Name Looped looking forward to release it at playstore<br>I am currently working on a FOSS HACK project Aether in which we are simulating real world physics using cpp and opengl <br>I am a student at IIIT Bhagalpur <br><br>I am also working on An app for NGO (unnati welfare society ) <br>I Have several Project for hackathon as well , SIH 2025 and Udbhav Inter IIIT 
+## 💫 About Me
+
+I’m Shreyas Prajapati, a passionate developer and designer currently pursuing my undergraduate studies at IIIT Bhagalpur. I enjoy building real-world applications that combine clean user interfaces with scalable backend systems. My primary focus is on full-stack development using technologies like Flutter, Node.js, Express, and modern databases.
+
+I am currently developing a Habit Tracker application called **Looped**, which I plan to release on the Play Store. Alongside that, I am contributing to a FOSS Hack project named **Aether**, where we are simulating real-world physics using C++ and OpenGL.
+
+Beyond personal projects, I also work on impactful community initiatives. I am developing an application for **Unnati Welfare Society**, an NGO focused on social development. I actively participate in hackathons and innovation challenges including **Smart India Hackathon (SIH 2025)** and **Udbhav Inter-IIIT Hackathon**, where I collaborate on building creative and practical solutions.
+
+Apart from development, I have strong experience in **UI/UX design and graphic design**, which helps me build applications that are both functional and visually engaging. I am always eager to learn new technologies, collaborate on interesting projects, and contribute to open-source communities.
 <div align="center">
   <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif" width="100%" style="border-radius: 10px;" alt="Header GIF"/>
 </div>

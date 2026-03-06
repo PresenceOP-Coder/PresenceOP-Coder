@@ -49,11 +49,14 @@
 
 ## 📊 GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PresenceOP-Coder&show_icons=true&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="165" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=PresenceOP-Coder&theme=dark&hide_border=false" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PresenceOP-Coder&layout=compact&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="165" />
-</p>
+<div align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=PresenceOP-Coder&theme=dark" height="165" alt="Streak Stats" />
+  
+  <br>
+  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PresenceOP-Coder&theme=dark" height="165" alt="Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PresenceOP-Coder&theme=dark" height="165" alt="Top Languages" />
+</div>
 
 ---
 

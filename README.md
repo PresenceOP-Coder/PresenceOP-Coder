@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  Full-Stack Developer • Cloud Developer • Problem Solver
+ Full-Stack Developer • Cloud Developer • Problem Solver
 </h3>
 <div align="center">
   <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif" width="100%" style="border-radius: 10px;" alt="Header GIF" />

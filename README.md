@@ -55,7 +55,7 @@
   <br>
   
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PresenceOP-Coder&theme=dark" height="165" alt="Profile Details" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PresenceOP-Coder&theme=dark" height="165" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PresenceOP-Coder&layout=compact&theme=dark&hide=html" height="165" alt="Top Languages"/>
 </div>
 
 ---

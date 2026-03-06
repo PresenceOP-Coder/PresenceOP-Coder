@@ -1,6 +1,8 @@
 # 💫 About Me:
 I am currently working on a Habit Tracker App Name Looped looking forward to release it at playstore<br>I am currently working on a FOSS HACK project Aether in which we are simulating real world physics using cpp and opengl <br>I am a student at IIIT Bhagalpur <br><br>I am also working on An app for NGO (unnati welfare society ) <br>I Have several Project for hackathon as well , SIH 2025 and Udbhav Inter IIIT 
-
+<div align="center">
+  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif" width="100%" style="border-radius: 10px;" alt="Header GIF"/>
+</div>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/presence_std) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shreyas-prajapati-116231325/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shreyasprajapati1230@gmail.com) 

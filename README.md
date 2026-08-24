@@ -7,9 +7,12 @@
 </h3>
 
 <div align="center">
-  <img src="[https://64.media.tumblr.com/f20469afb9f2b7bef6a884e9447d7266/b791db4ac4343533-42/s1280x1920/1e92c1583d081711e233cfe27ff21735be1d7e26.gif](https://64.media.tumblr.com/38f96befb0c8a9e869eef27af148e81a/53956eb81b9a76ec-47/s1280x1920/a637ba824c3f9349176c12a0cdb42b5a32342619.gifv) width="100%" style="border-radius: 10px;" alt="Header GIF" />
+  <img
+    src="https://64.media.tumblr.com/f20469afb9f2b7bef6a884e9447d7266/b791db4ac4343533-42/s1280x1920/1e92c1583d081711e233cfe27ff21735be1d7e26.gif"
+    width="100%"
+    alt="Shreyas Prajapati Header"
+  />
 </div>
-
 ---
 <h3> I’m Shreyas Prajapati, a passionate developer and designer currently pursuing my undergraduate studies at IIIT Bhagalpur. I enjoy building real-world applications that combine clean user interfaces with scalable backend systems using Flutter, Go, and modern databases. I am currently developing a Habit Tracker called <b>Looped</b>, contributing to a FOSS Hack project named <b>Aether</b> (simulating real-world physics using C++ and OpenGL), and building an app for the <b>Unnati Welfare Society</b>. With a strong background in Coding, I am always eager to participate in hackathons like SIH, collaborate on interesting projects, and contribute to open-source communities. </h3>
 

@@ -8,9 +8,9 @@
 
 <div align="center">
   <img
-    src="https://64.media.tumblr.com/f20469afb9f2b7bef6a884e9447d7266/b791db4ac4343533-42/s1280x1920/1e92c1583d081711e233cfe27ff21735be1d7e26.gif"
+    src="https://64.media.tumblr.com/38f96befb0c8a9e869eef27af148e81a/53956eb81b9a76ec-47/s1280x1920/a637ba824c3f9349176c12a0cdb42b5a32342619.gifv"
     width="100%"
-    alt="Shreyas Prajapati Header"
+    alt="Header GIF"
   />
 </div>
 ---

@@ -57,6 +57,23 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=PresenceOP-Coder&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
+## 🐍 Contribution Snake
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/PresenceOP-Coder/PresenceOP-Coder/output/github-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/PresenceOP-Coder/PresenceOP-Coder/output/github-snake.svg"
+  />
+  <img
+    alt="github contribution snake"
+    src="https://raw.githubusercontent.com/PresenceOP-Coder/PresenceOP-Coder/output/github-snake.svg"
+  />
+</picture>
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 

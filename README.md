@@ -7,7 +7,7 @@
 </h3>
 
 <div align="center">
-  <img src="https://64.media.tumblr.com/f20469afb9f2b7bef6a884e9447d7266/b791db4ac4343533-42/s1280x1920/1e92c1583d081711e233cfe27ff21735be1d7e26.gif" width="100%" style="border-radius: 10px;" alt="Header GIF" />
+  <img src="https://64.media.tumblr.com/f20469afb9f2b7bef6a884e9447d7266/b791db4ac4343533-42/s1280x1920/1e92c1583d081711e233cfe27ff21735be1d7e26.gif width="100%" style="border-radius: 10px;" alt="Header GIF" />
 </div>
 
 ---

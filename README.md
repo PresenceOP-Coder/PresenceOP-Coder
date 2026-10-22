@@ -1,5 +1,5 @@
-<!-- Shreyas Prajapati | Legendary Pokédex | GitHub profile README -->
-<!-- Repo layout: README.md + assets/*.svg + .github/workflows/snake.yml  (all included) -->
+<!-- Shreyas Prajapati | Legendary Pokédex, 1-bit hacker edition | GitHub profile README -->
+<!-- Repo layout: README.md + assets/*.svg + .github/workflows/snake.yml (all included) -->
 
 <div align="center">
 
@@ -14,20 +14,20 @@
 <img src="https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/showdown/487.gif" height="95" alt="Giratina"/>
 <img src="https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/showdown/384.gif" height="95" alt="Rayquaza"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&duration=2600&pause=700&color=F5C542&center=true&vCenter=true&repeat=true&width=720&height=34&lines=TRAINER+CLASS%3A+BACKEND+ENGINEER;GO+%C2%B7+DISTRIBUTED+SYSTEMS+%C2%B7+CHAOS+ENGINEERING;CURRENT+QUEST%3A+BREAKING+THINGS+ON+PURPOSE;MY+MOVE%3A+NEVER+GIVING+UP" alt="Typing animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&duration=2600&pause=700&color=F5F5F2&center=true&vCenter=true&repeat=true&width=720&height=34&lines=%3E+TRAINER+CLASS%3A+BACKEND+ENGINEER;%3E+GO+%C2%B7+DISTRIBUTED+SYSTEMS+%C2%B7+CHAOS+ENGINEERING;%3E+CURRENT+QUEST%3A+BREAKING+THINGS+ON+PURPOSE;%3E+MY+MOVE%3A+NEVER+GIVING+UP" alt="Typing animation"/>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/shreyas-prajapati-116231325/"><img src="https://img.shields.io/badge/LINKEDIN-TRAINER%20NETWORK-0D1117?style=for-the-badge&logo=linkedin&logoColor=F5C542&labelColor=0D1117&color=F5C542" alt="LinkedIn"/></a>
-  <a href="mailto:shreyasprajapati1230@gmail.com"><img src="https://img.shields.io/badge/EMAIL-SEND%20A%20PIDGEOT-0D1117?style=for-the-badge&logo=gmail&logoColor=B388FF&labelColor=0D1117&color=B388FF" alt="Email"/></a>
-  <a href="https://instagram.com/presence_std"><img src="https://img.shields.io/badge/INSTAGRAM-FOLLOW-0D1117?style=for-the-badge&logo=instagram&logoColor=FF5252&labelColor=0D1117&color=FF5252" alt="Instagram"/></a>
+  <a href="https://www.linkedin.com/in/shreyas-prajapati-116231325/"><img src="https://img.shields.io/badge/LINKEDIN-TRAINER%20NETWORK-E6E6E6?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" alt="LinkedIn"/></a>
+  <a href="mailto:shreyasprajapati1230@gmail.com"><img src="https://img.shields.io/badge/EMAIL-SEND%20A%20PIDGEOT-E6E6E6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" alt="Email"/></a>
+  <a href="https://instagram.com/presence_std"><img src="https://img.shields.io/badge/INSTAGRAM-FOLLOW-E6E6E6?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0D1117" alt="Instagram"/></a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/CLASS-LEGENDARY-0D1117?style=flat-square&labelColor=0D1117&color=F5C542" alt="Class"/>
-  <img src="https://img.shields.io/badge/TYPE-GO%20%2F%20BACKEND-0D1117?style=flat-square&labelColor=0D1117&color=00E5FF" alt="Type"/>
-  <img src="https://img.shields.io/badge/ABILITY-NEVER%20GIVING%20UP-0D1117?style=flat-square&labelColor=0D1117&color=FF5252" alt="Ability"/>
-  <img src="https://img.shields.io/badge/ROSTER-7%20LEGENDARIES-0D1117?style=flat-square&labelColor=0D1117&color=B388FF" alt="Roster"/>
-  <img src="https://komarev.com/ghpvc/?username=PresenceOP-Coder&style=flat-square&color=F5C542&labelColor=0D1117&label=TRAINER+VISITS" alt="Profile views"/>
+  <img src="https://img.shields.io/badge/CLASS-LEGENDARY-E6E6E6?style=flat-square&labelColor=0D1117" alt="Class"/>
+  <img src="https://img.shields.io/badge/TYPE-GO%20%2F%20BACKEND-C4C4C4?style=flat-square&labelColor=0D1117" alt="Type"/>
+  <img src="https://img.shields.io/badge/ABILITY-NEVER%20GIVING%20UP-A5A5A5?style=flat-square&labelColor=0D1117" alt="Ability"/>
+  <img src="https://img.shields.io/badge/ROSTER-7%20LEGENDARIES-8A8A8A?style=flat-square&labelColor=0D1117" alt="Roster"/>
+  <img src="https://komarev.com/ghpvc/?username=PresenceOP-Coder&style=flat-square&color=E6E6E6&labelColor=0D1117&label=TRAINER+VISITS" alt="Profile views"/>
 </p>
 
 <img src="assets/divider.svg" width="80%" alt=""/>
@@ -53,54 +53,72 @@
 <td align="center" width="33%" valign="top">
   <img src="https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/showdown/384.gif" height="110" alt="Rayquaza"/><br/>
   <b>RAYQUAZA</b><br/>
-  <img src="https://img.shields.io/badge/TYPE-DRAGON%20%2F%20FLYING-00C853?style=flat-square&labelColor=0d1117" alt="Rayquaza type"/><br/>
+  <img src="https://img.shields.io/badge/TYPE-DRAGON%20%2F%20FLYING-E6E6E6?style=flat-square&labelColor=0D1117" alt="Rayquaza type"/><br/>
   <sub><i>Rules the sky layer: fast, scalable backend.</i></sub><br/><br/>
-  <img src="https://skillicons.dev/icons?i=go,nodejs,express,aws&theme=dark" height="40" alt="Go, Node, Express, AWS"/>
+  <img src="https://img.shields.io/badge/Go-0D1117?style=flat-square&logo=go&logoColor=white" alt="Go"/>
+  <img src="https://img.shields.io/badge/Node.js-0D1117?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Express-0D1117?style=flat-square&logo=express&logoColor=white" alt="Express"/>
+  <img src="https://img.shields.io/badge/AWS-0D1117?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS"/>
 </td>
 <td align="center" width="33%" valign="top">
   <img src="https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/showdown/483.gif" height="110" alt="Dialga"/><br/>
   <b>DIALGA</b><br/>
-  <img src="https://img.shields.io/badge/TYPE-STEEL%20%2F%20DRAGON-3A86FF?style=flat-square&labelColor=0d1117" alt="Dialga type"/><br/>
+  <img src="https://img.shields.io/badge/TYPE-STEEL%20%2F%20DRAGON-C4C4C4?style=flat-square&labelColor=0D1117" alt="Dialga type"/><br/>
   <sub><i>Bends time: concurrency, schedulers, distributed systems.</i></sub><br/><br/>
   <code>Goroutines</code> · <code>TCP</code> · <code>Schedulers</code>
 </td>
 <td align="center" width="33%" valign="top">
   <img src="https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/showdown/484.gif" height="110" alt="Palkia"/><br/>
   <b>PALKIA</b><br/>
-  <img src="https://img.shields.io/badge/TYPE-WATER%20%2F%20DRAGON-B388FF?style=flat-square&labelColor=0d1117" alt="Palkia type"/><br/>
+  <img src="https://img.shields.io/badge/TYPE-WATER%20%2F%20DRAGON-A5A5A5?style=flat-square&labelColor=0D1117" alt="Palkia type"/><br/>
   <sub><i>Warps space: graphics and physics from scratch.</i></sub><br/><br/>
-  <img src="https://skillicons.dev/icons?i=cpp,c,cs&theme=dark" height="40" alt="C++, C, C#"/> <code>OpenGL</code>
+  <img src="https://img.shields.io/badge/C++-0D1117?style=flat-square&logo=cplusplus&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/C-0D1117?style=flat-square&logo=c&logoColor=white" alt="C"/>
+  <img src="https://img.shields.io/badge/C%23-0D1117?style=flat-square&logo=csharp&logoColor=white" alt="C#"/>
+  <img src="https://img.shields.io/badge/OpenGL-0D1117?style=flat-square&logo=opengl&logoColor=white" alt="OpenGL"/>
 </td>
 </tr>
 <tr>
 <td align="center" valign="top">
   <img src="https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/showdown/487.gif" height="110" alt="Giratina"/><br/>
   <b>GIRATINA</b><br/>
-  <img src="https://img.shields.io/badge/TYPE-GHOST%20%2F%20DRAGON-6A1B9A?style=flat-square&labelColor=0d1117" alt="Giratina type"/><br/>
+  <img src="https://img.shields.io/badge/TYPE-GHOST%20%2F%20DRAGON-8A8A8A?style=flat-square&labelColor=0D1117" alt="Giratina type"/><br/>
   <sub><i>Lives in the Distortion World: chaos engineering.</i></sub><br/><br/>
   <code>Fault Injection</code> · <code>Proxies</code> · <code>DSLs</code>
 </td>
 <td align="center" valign="top">
   <img src="https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/showdown/383.gif" height="110" alt="Groudon"/><br/>
   <b>GROUDON</b><br/>
-  <img src="https://img.shields.io/badge/TYPE-GROUND-FF3D00?style=flat-square&labelColor=0d1117" alt="Groudon type"/><br/>
+  <img src="https://img.shields.io/badge/TYPE-GROUND-E6E6E6?style=flat-square&labelColor=0D1117" alt="Groudon type"/><br/>
   <sub><i>Raw power that carves through abstractions: data and storage.</i></sub><br/><br/>
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,firebase&theme=dark" height="40" alt="Postgres, MongoDB, MySQL, Firebase"/>
+  <img src="https://img.shields.io/badge/Postgres-0D1117?style=flat-square&logo=postgresql&logoColor=white" alt="Postgres"/>
+  <img src="https://img.shields.io/badge/MongoDB-0D1117?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/MySQL-0D1117?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/Firebase-0D1117?style=flat-square&logo=firebase&logoColor=white" alt="Firebase"/>
 </td>
 <td align="center" valign="top">
   <img src="https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/showdown/382.gif" height="110" alt="Kyogre"/><br/>
   <b>KYOGRE</b><br/>
-  <img src="https://img.shields.io/badge/TYPE-WATER-1E88E5?style=flat-square&labelColor=0d1117" alt="Kyogre type"/><br/>
+  <img src="https://img.shields.io/badge/TYPE-WATER-C4C4C4?style=flat-square&labelColor=0D1117" alt="Kyogre type"/><br/>
   <sub><i>Fluid, beautiful interfaces that flow on every screen.</i></sub><br/><br/>
-  <img src="https://skillicons.dev/icons?i=flutter,dart,react&theme=dark" height="40" alt="Flutter, Dart, React"/>
+  <img src="https://img.shields.io/badge/Flutter-0D1117?style=flat-square&logo=flutter&logoColor=white" alt="Flutter"/>
+  <img src="https://img.shields.io/badge/Dart-0D1117?style=flat-square&logo=dart&logoColor=white" alt="Dart"/>
+  <img src="https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=white" alt="React"/>
 </td>
 </tr>
 <tr>
 <td align="center" colspan="3" valign="top">
   <img src="https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/showdown/150.gif" height="110" alt="Mewtwo"/><br/>
-  <b>MEWTWO</b> &nbsp;<img src="https://img.shields.io/badge/TYPE-PSYCHIC-E91E63?style=flat-square&labelColor=0d1117" alt="Mewtwo type"/><br/>
+  <b>MEWTWO</b> &nbsp;<img src="https://img.shields.io/badge/TYPE-PSYCHIC-A5A5A5?style=flat-square&labelColor=0D1117" alt="Mewtwo type"/><br/>
   <sub><i>Engineered for maximum power: the dev toolkit.</i></sub><br/><br/>
-  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,vercel,postman&theme=dark" height="40" alt="Git, GitHub, Linux, VS Code, Vercel, Postman"/> <code>Render</code> <code>JWT</code>
+  <img src="https://img.shields.io/badge/Git-0D1117?style=flat-square&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-0D1117?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/Linux-0D1117?style=flat-square&logo=linux&logoColor=white" alt="Linux"/>
+  <img src="https://img.shields.io/badge/VS%20Code-0D1117?style=flat-square" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/Vercel-0D1117?style=flat-square&logo=vercel&logoColor=white" alt="Vercel"/>
+  <img src="https://img.shields.io/badge/Postman-0D1117?style=flat-square&logo=postman&logoColor=white" alt="Postman"/>
+  <img src="https://img.shields.io/badge/Render-0D1117?style=flat-square&logo=render&logoColor=white" alt="Render"/>
+  <img src="https://img.shields.io/badge/JWT-0D1117?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT"/>
 </td>
 </tr>
 </table>
@@ -119,7 +137,7 @@
 
 <table align="center" width="100%" cellpadding="12">
 <tr>
-<td width="190" align="center" valign="middle">
+<td width="200" align="center" valign="middle">
   <img src="assets/emblem-kairos.svg" width="80" alt=""/>
   <img src="https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/showdown/487.gif" height="70" alt="Giratina"/>
 </td>
@@ -128,7 +146,7 @@
   <sub><code>Go</code> · <code>TCP</code> · <code>React</code> · <code>Chaos Engineering</code></sub><br/>
   Chaos-engineering TCP proxy with a scenario DSL, scheduler and triggers. React dashboard in progress.
 </td>
-<td width="190" align="center" valign="middle">
+<td width="200" align="center" valign="middle">
   <img src="assets/emblem-looped.svg" width="80" alt=""/>
   <img src="https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/showdown/382.gif" height="70" alt="Kyogre"/>
 </td>
@@ -165,21 +183,17 @@
 <img src="assets/section-5.svg" width="100%" alt="05 / Battle Telemetry"/>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PresenceOP-Coder&show_icons=true&hide_border=true&bg_color=0D1117&title_color=F5C542&text_color=E6EDF3&icon_color=B388FF&custom_title=LEGENDARY%20STATS" height="170" alt="GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=PresenceOP-Coder&show_icons=true&bg_color=05060A&border_color=2A2C33&title_color=F5F5F2&text_color=B5B8C2&icon_color=F5F5F2&custom_title=LEGENDARY%20STATS" height="170" alt="GitHub stats"/>
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PresenceOP-Coder&layout=compact&hide_border=true&bg_color=0D1117&title_color=F5C542&text_color=E6EDF3&custom_title=SIGNATURE%20MOVES" height="170" alt="Top languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PresenceOP-Coder&layout=compact&bg_color=05060A&border_color=2A2C33&title_color=F5F5F2&text_color=B5B8C2&custom_title=SIGNATURE%20MOVES" height="170" alt="Top languages"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=PresenceOP-Coder&theme=dark&hide_border=true&background=0D1117&ring=F5C542&fire=FF5252&currStreakLabel=F5C542&sideNums=E6EDF3&sideLabels=B388FF&dates=8B949E" height="170" alt="Contribution streak"/>
+  <img src="https://streak-stats.demolab.com/?user=PresenceOP-Coder&theme=dark&background=05060A&border=2A2C33&stroke=2A2C33&ring=F5F5F2&fire=F5F5F2&currStreakNum=F5F5F2&currStreakLabel=F5F5F2&sideNums=F5F5F2&sideLabels=7A7E8A&dates=4A4D57" height="170" alt="Contribution streak"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=PresenceOP-Coder&theme=onedark&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" width="100%" alt="GitHub trophies"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PresenceOP-Coder&bg_color=0D1117&color=F5C542&line=B388FF&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Contribution activity graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PresenceOP-Coder&bg_color=05060A&color=7A7E8A&line=F5F5F2&point=FFFFFF&area=true&area_color=F5F5F2&hide_border=true" width="100%" alt="Contribution activity graph"/>
 </p>
 
 <picture>
@@ -209,9 +223,9 @@
 
 <br/><br/>
 
-<a href="https://www.linkedin.com/in/shreyas-prajapati-116231325/"><img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=F5C542" alt="LinkedIn"/></a>
-<a href="mailto:shreyasprajapati1230@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=B388FF" alt="Email"/></a>
-<a href="https://instagram.com/presence_std"><img src="https://img.shields.io/badge/INSTAGRAM-0D1117?style=for-the-badge&logo=instagram&logoColor=FF5252" alt="Instagram"/></a>
+<a href="https://www.linkedin.com/in/shreyas-prajapati-116231325/"><img src="https://img.shields.io/badge/LINKEDIN-E6E6E6?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=E6E6E6" alt="LinkedIn"/></a>
+<a href="mailto:shreyasprajapati1230@gmail.com"><img src="https://img.shields.io/badge/EMAIL-E6E6E6?style=for-the-badge&logo=gmail&logoColor=black&labelColor=E6E6E6" alt="Email"/></a>
+<a href="https://instagram.com/presence_std"><img src="https://img.shields.io/badge/INSTAGRAM-E6E6E6?style=for-the-badge&logo=instagram&logoColor=black&labelColor=E6E6E6" alt="Instagram"/></a>
 
 <br/>
 
